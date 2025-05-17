@@ -1,2 +1,2 @@
 # Transformer
-coding a transformer from scratch with full explanation
+coding a transformer from scratch on PyTorch with full explanation
