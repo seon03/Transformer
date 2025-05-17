@@ -1,2 +1,2 @@
 # Transformer
-in code from scratch
+coding a transformer from scratch with full explanation
